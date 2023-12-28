@@ -20,3 +20,4 @@ accurately predicting results and the custom U-Net excelling in
 both. This study contributes to the advancement of road
 segmentation techniques and offers insights into the application
 of deep learning in remote sensing.
+![sample_pred_39](https://github.com/ogyousef/Road_segmentation/assets/83747441/cbb53c93-fe02-46cf-88f4-acdffa3fe504)
